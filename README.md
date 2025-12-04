@@ -11,10 +11,10 @@
  .'.o.'.'.o.
 .o.'.o.'.o.'.
    [_____]
-    \___/    :)
+    \___/    ldb
 ------------------------------------------------
 ```
 
 My solutions for Advent of Code 2025.
 
-see: [Advent of Code](https://adventofcode.com/2025/)
+see: [Advent of Code](https://adventofcode.com/2025/) | [tree](https://asciiartist.com/ldb/christmasascii.txt)
